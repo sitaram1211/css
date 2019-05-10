@@ -1,0 +1,47 @@
+
+
+#p1{
+    color: red;
+    background-color:yellow;
+}
+#p2{
+    color:white;
+    background-color: black;
+    display: inline;
+}
+#p3{
+    color: green;
+    background-color: yellowgreen;
+
+    
+}
+.class1{
+    color: black;
+    background-color: white;
+    
+}
+.class2{
+    color: brown;
+    list-style: none;
+    padding: 0%
+}
+.class3{
+    background-color: yellow;
+    padding: 30px;
+    border: 2px solid ;
+    margin: 3px;
+    background-image: url(star.png);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    width: 50%;
+
+}
+.class4:hover{
+    background-color: white;
+    transform: translateX(50px);
+    opacity: 0.5;
+    cursor: pointer;
+    
+    
+}
+
